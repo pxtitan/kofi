@@ -1,0 +1,23 @@
+
+{
+  "name": "Kofi Coffee",
+  "short_name": "Kofi",
+  "description": "Kofi Coffee is a specialty coffee roaster dedicated to sourcing and roasting the finest coffee beans from around the world. We are passionate about delivering exceptional coffee experiences to our customers, whether it's through our carefully curated selection of single-origin coffees or our expertly crafted blends.",
+  "start_url": "https://prathamkankheria.github.io/kofi/",
+  "scope": "/kofi/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6f4e37",
+  "icons": [
+    {
+      "src": "/src/assets/kofi-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/src/assets/kofi-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
